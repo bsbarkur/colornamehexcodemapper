@@ -776,321 +776,321 @@ Pink (255,192,203) #FFC0CB
 Pink (Pantone) (215,72,148) #D74894
 Pink lace (255,221,244) #FFDDF4
 Pink lavender (216,178,209) #D8B2D1
-Pink pearl (255,153,102) #FF9966
-Pink Sherbet (231,172,207) #E7ACCF
-Pistachio (247,143,167) #F78FA7
-Platinum (147,197,114) #93C572
-Plum (229,228,226) #E5E4E2
-Plum (web) (142,69,133) #8E4585
-Pomp and Power (221,160,221) #DDA0DD
-Popstar (134,96,142) #86608E
-Portland Orange (190,79,98) #BE4F62
-Powder blue (255,90,54) #FF5A36
-Princeton orange (176,224,230) #B0E0E6
-Prune (245,128,37) #F58025
-Prussian blue (112,28,28) #701C1C
-Psychedelic purple (0,49,83) #003153
-Puce (223,0,255) #DF00FF
-Puce red (204,136,153) #CC8899
-Pullman Brown (UPS Brown) (114,47,55) #722F37
-Pumpkin (100,65,23) #644117
-Purple (HTML) (255,117,24) #FF7518
-Purple (Munsell) (128,0,128) #800080
-Purple (X11) (159,0,197) #9F00C5
-Purple Heart (160,32,240) #A020F0
-Purple mountain majesty (105,53,156) #69359C
-Purple navy (150,120,182) #9678B6
-Purple pizzazz (78,81,128) #4E5180
-Purple taupe (254,78,218) #FE4EDA
-Purpureus (80,64,77) #50404D
-Quartz (154,78,174) #9A4EAE
-Queen blue (81,72,79) #51484F
-Queen pink (67,107,149) #436B95
-Quinacridone magenta (232,204,215) #E8CCD7
-Rackley (142,58,89) #8E3A59
-Radical Red (93,138,168) #5D8AA8
-Rajah (255,53,94) #FF355E
-Raspberry (251,171,96) #FBAB60
-Raspberry glace (227,11,92) #E30B5D
-Raspberry pink (145,95,109) #915F6D
-Raspberry rose (226,80,152) #E25098
-Raw umber (179,68,108) #B3446C
-Razzle dazzle rose (130,102,68) #826644
-Razzmatazz (255,51,204) #FF33CC
-Razzmic Berry (227,37,107) #E3256B
-Rebecca Purple (141,78,133) #8D4E85
-Red (102,52,153) #663399
-Red (Crayola) (255,0,0) #FF0000
-Red (Munsell) (238,32,77) #EE204D
-Red (NCS) (242,0,60) #F2003C
-Red (Pantone) (196,2,51) #C40233
-Red (pigment) (237,41,57) #ED2939
-Red (RYB) (237,28,36) #ED1C24
-Red-brown (254,39,18) #FE2712
-Red devil (165,42,42) #A52A2A
-Red-orange (134,1,17) #860111
-Red-purple (255,83,73) #FF5349
-Red-violet (228,0,120) #E40078
-Redwood (199,21,133) #C71585
-Regalia (164,90,82) #A45A52
-Resolution blue (82,45,128) #522D80
-Rhythm (0,35,135) #002387
-Rich black (119,118,150) #777696
-Rich brilliant lavender (0,64,64) #004040
-Rich carmine (241,167,254) #F1A7FE
-Rich electric blue (215,0,64) #D70040
-Rich lavender (8,146,208) #0892D0
-Rich lilac (167,107,207) #A76BCF
-Rich maroon (182,102,210) #B666D2
-Rifle green (176,48,96) #B03060
-Roast coffee (68,76,56) #444C38
-Robin egg blue (112,66,65) #704241
-Rocket metallic (0,204,204) #00CCCC
-Roman silver (138,127,128) #8A7F80
-Rose (131,137,150) #838996
-Rose bonbon (255,0,127) #FF007F
-Rose ebony (249,66,158) #F9429E
-Rose gold (103,72,70) #674846
-Rose madder (183,110,121) #B76E79
-Rose pink (227,38,54) #E32636
-Rose quartz (255,102,204) #FF66CC
-Rose red (170,152,169) #AA98A9
-Rose taupe (194,30,86) #C21E56
-Rose vale (144,93,93) #905D5D
-Rosewood (171,78,82) #AB4E52
-Rosso corsa (101,0,11) #65000B
-Rosy brown (212,0,0) #D40000
-Royal azure (188,143,143) #BC8F8F
-Royal blue (0,56,168) #0038A8
+Pink-orange (255,153,102) #FF9966
+Pink pearl (231,172,207) #E7ACCF
+Pink Sherbet (247,143,167) #F78FA7
+Pistachio (147,197,114) #93C572
+Platinum (229,228,226) #E5E4E2
+Plum (142,69,133) #8E4585
+Plum (web) (221,160,221) #DDA0DD
+Pomp and Power (134,96,142) #86608E
+Popstar (190,79,98) #BE4F62
+Portland Orange (255,90,54) #FF5A36
+Powder blue (176,224,230) #B0E0E6
+Princeton orange (245,128,37) #F58025
+Prune (112,28,28) #701C1C
+Prussian blue (0,49,83) #003153
+Psychedelic purple (223,0,255) #DF00FF
+Puce (204,136,153) #CC8899
+Puce red (114,47,55) #722F37
+Pullman Brown (UPS Brown) (100,65,23) #644117
+Pumpkin (255,117,24) #FF7518
+Purple (HTML) (128,0,128) #800080
+Purple (Munsell) (159,0,197) #9F00C5
+Purple (X11) (160,32,240) #A020F0
+Purple Heart (105,53,156) #69359C
+Purple mountain majesty (150,120,182) #9678B6
+Purple navy (78,81,128) #4E5180
+Purple pizzazz (254,78,218) #FE4EDA
+Purple taupe (80,64,77) #50404D
+Purpureus (154,78,174) #9A4EAE
+Quartz (81,72,79) #51484F
+Queen blue (67,107,149) #436B95
+Queen pink (232,204,215) #E8CCD7
+Quinacridone magenta (142,58,89) #8E3A59
+Rackley (93,138,168) #5D8AA8
+Radical Red (255,53,94) #FF355E
+Rajah (251,171,96) #FBAB60
+Raspberry (227,11,92) #E30B5D
+Raspberry glace (145,95,109) #915F6D
+Raspberry pink (226,80,152) #E25098
+Raspberry rose (179,68,108) #B3446C
+Raw umber (130,102,68) #826644
+Razzle dazzle rose (255,51,204) #FF33CC
+Razzmatazz (227,37,107) #E3256B
+Razzmic Berry (141,78,133) #8D4E85
+Rebecca Purple (102,52,153) #663399
+Red (255,0,0) #FF0000
+Red (Crayola) (238,32,77) #EE204D
+Red (Munsell) (242,0,60) #F2003C
+Red (NCS) (196,2,51) #C40233
+Red (Pantone) (237,41,57) #ED2939
+Red (pigment) (237,28,36) #ED1C24
+Red (RYB) (254,39,18) #FE2712
+Red-brown (165,42,42) #A52A2A
+Red devil (134,1,17) #860111
+Red-orange (255,83,73) #FF5349
+Red-purple (228,0,120) #E40078
+Red-violet (199,21,133) #C71585
+Redwood (164,90,82) #A45A52
+Regalia (82,45,128) #522D80
+Resolution blue (0,35,135) #002387
+Rhythm (119,118,150) #777696
+Rich black (0,64,64) #004040
+Rich brilliant lavender (241,167,254) #F1A7FE
+Rich carmine (215,0,64) #D70040
+Rich electric blue (8,146,208) #0892D0
+Rich lavender (167,107,207) #A76BCF
+Rich lilac (182,102,210) #B666D2
+Rich maroon (176,48,96) #B03060
+Rifle green (68,76,56) #444C38
+Roast coffee (112,66,65) #704241
+Robin egg blue (0,204,204) #00CCCC
+Rocket metallic (138,127,128) #8A7F80
+Roman silver (131,137,150) #838996
+Rose (255,0,127) #FF007F
+Rose bonbon (249,66,158) #F9429E
+Rose ebony (103,72,70) #674846
+Rose gold (183,110,121) #B76E79
+Rose madder (227,38,54) #E32636
+Rose pink (255,102,204) #FF66CC
+Rose quartz (170,152,169) #AA98A9
+Rose red (194,30,86) #C21E56
+Rose taupe (144,93,93) #905D5D
+Rose vale (171,78,82) #AB4E52
+Rosewood (101,0,11) #65000B
+Rosso corsa (212,0,0) #D40000
+Rosy brown (188,143,143) #BC8F8F
+Royal azure (0,56,168) #0038A8
 Royal blue (0,35,102) #002366
-Royal fuchsia (65,105,225) #4169E1
-Royal purple (202,44,146) #CA2C92
-Royal yellow (120,81,169) #7851A9
-Ruber (250,218,94) #FADA5E
-Rubine red (206,70,118) #CE4676
-Ruby (209,0,86) #D10056
-Ruby red (224,17,95) #E0115F
-Ruddy (155,17,30) #9B111E
-Ruddy brown (255,0,40) #FF0028
-Ruddy pink (187,101,40) #BB6528
-Rufous (225,142,150) #E18E96
-Russet (168,28,7) #A81C07
-Russian green (128,70,27) #80461B
-Russian violet (103,146,103) #679267
-Rust (50,23,77) #32174D
-Rusty red (183,65,14) #B7410E
-Sacramento State green (218,44,67) #DA2C43
-Saddle brown (0,86,63) #00563F
-Safety orange (blaze orange) (139,69,19) #8B4513
-Safety yellow (255,103,0) #FF6700
-Saffron (238,210,2) #EED202
-Sage (244,196,48) #F4C430
-St. Patrick's blue (188,184,138) #BCB88A
-Salmon (35,41,122) #23297A
-Salmon pink (250,128,114) #FA8072
-Sand (255,145,164) #FF91A4
-Sand dune (194,178,128) #C2B280
-Sandstorm (150,113,23) #967117
-Sandy brown (236,213,64) #ECD540
-Sandy taupe (244,164,96) #F4A460
-Sangria (150,113,23) #967117
-Sap green (146,0,10) #92000A
-Sapphire (80,125,42) #507D2A
-Sapphire blue (15,82,186) #0F52BA
-Satin sheen gold (0,103,165) #0067A5
-Scarlet (203,161,53) #CBA135
+Royal blue (65,105,225) #4169E1
+Royal fuchsia (202,44,146) #CA2C92
+Royal purple (120,81,169) #7851A9
+Royal yellow (250,218,94) #FADA5E
+Ruber (206,70,118) #CE4676
+Rubine red (209,0,86) #D10056
+Ruby (224,17,95) #E0115F
+Ruby red (155,17,30) #9B111E
+Ruddy (255,0,40) #FF0028
+Ruddy brown (187,101,40) #BB6528
+Ruddy pink (225,142,150) #E18E96
+Rufous (168,28,7) #A81C07
+Russet (128,70,27) #80461B
+Russian green (103,146,103) #679267
+Russian violet (50,23,77) #32174D
+Rust (183,65,14) #B7410E
+Rusty red (218,44,67) #DA2C43
+Sacramento State green (0,86,63) #00563F
+Saddle brown (139,69,19) #8B4513
+Safety orange (blaze orange) (255,103,0) #FF6700
+Safety yellow (238,210,2) #EED202
+Saffron (244,196,48) #F4C430
+Sage (188,184,138) #BCB88A
+St. Patrick's blue (35,41,122) #23297A
+Salmon (250,128,114) #FA8072
+Salmon pink (255,145,164) #FF91A4
+Sand (194,178,128) #C2B280
+Sand dune (150,113,23) #967117
+Sandstorm (236,213,64) #ECD540
+Sandy brown (244,164,96) #F4A460
+Sandy taupe (150,113,23) #967117
+Sangria (146,0,10) #92000A
+Sap green (80,125,42) #507D2A
+Sapphire (15,82,186) #0F52BA
+Sapphire blue (0,103,165) #0067A5
+Satin sheen gold (203,161,53) #CBA135
 Scarlet (255,36,0) #FF2400
-Schauss pink (253,14,53) #FD0E35
-School bus yellow (255,145,175) #FF91AF
-Screamin' Green (255,216,0) #FFD800
-Sea blue (118,255,122) #76FF7A
-Sea green (0,105,148) #006994
-Seal brown (46,139,87) #2E8B57
-Seashell (50,20,20) #321414
-Selective yellow (255,245,238) #FFF5EE
-Sepia (255,186,0) #FFBA00
-Shadow (112,66,20) #704214
-Shadow blue (138,121,93) #8A795D
-Shampoo (119,139,165) #778BA5
-Shamrock green (255,207,241) #FFCFF1
-Sheen Green (0,158,96) #009E60
-Shimmering Blush (143,212,0) #8FD400
-Shocking pink (217,134,149) #D98695
-Shocking pink (Crayola) (252,15,192) #FC0FC0
-Sienna (255,111,255) #FF6FFF
-Silver (136,45,23) #882D17
-Silver chalice (192,192,192) #C0C0C0
-Silver Lake blue (172,172,172) #ACACAC
-Silver pink (93,137,186) #5D89BA
-Silver sand (196,174,173) #C4AEAD
-Sinopia (191,193,194) #BFC1C2
-Skobeloff (203,65,11) #CB410B
-Sky blue (0,116,116) #007474
-Sky magenta (135,206,235) #87CEEB
-Slate blue (207,113,175) #CF71AF
-Slate gray (106,90,205) #6A5ACD
-Smalt (Dark powder blue) (112,128,144) #708090
-Smitten (0,51,153) #003399
-Smoke (200,65,134) #C84186
-Smoky black (115,130,118) #738276
-Smoky Topaz (16,12,8) #100C08
-Snow (147,61,65) #933D41
-Soap (255,250,250) #FFFAFA
-Solid pink (206,200,239) #CEC8EF
-Sonic silver (137,56,67) #893843
-Spartan Crimson (117,117,117) #757575
-Space cadet (158,19,22) #9E1316
-Spanish bistre (29,41,81) #1D2951
-Spanish blue (128,117,50) #807532
-Spanish carmine (0,112,184) #0070B8
-Spanish crimson (209,0,71) #D10047
-Spanish gray (229,26,76) #E51A4C
-Spanish green (152,152,152) #989898
-Spanish orange (0,145,80) #009150
-Spanish pink (232,97,0) #E86100
-Spanish red (247,191,190) #F7BFBE
-Spanish sky blue (230,0,38) #E60026
-Spanish violet (0,255,255) #00FFFF
-Spanish viridian (76,40,130) #4C2882
-Spiro Disco Ball (0,127,92) #007F5C
-Spring bud (15,192,252) #0FC0FC
-Spring green (167,252,0) #A7FC00
-Star command blue (0,255,127) #00FF7F
-Steel blue (0,123,184) #007BB8
-Steel pink (70,130,180) #4682B4
-Stil de grain yellow (204,51,204) #CC33CC
-Stizza (250,218,94) #FADA5E
-Stormcloud (153,0,0) #990000
-Straw (79,102,106) #4F666A
-Strawberry (228,217,111) #E4D96F
-Sunglow (252,90,141) #FC5A8D
-Sunray (255,204,51) #FFCC33
-Sunset (227,171,87) #E3AB57
-Sunset orange (250,214,165) #FAD6A5
-Super pink (253,94,83) #FD5E53
-Tan (207,107,169) #CF6BA9
-Tangelo (210,180,140) #D2B48C
-Tangerine (249,77,0) #F94D00
-Tangerine yellow (242,133,0) #F28500
-Tango pink (255,204,0) #FFCC00
-Taupe (228,113,122) #E4717A
-Taupe gray (72,60,50) #483C32
-Tea green (139,133,137) #8B8589
-Tea rose (208,240,192) #D0F0C0
+Scarlet (253,14,53) #FD0E35
+Schauss pink (255,145,175) #FF91AF
+School bus yellow (255,216,0) #FFD800
+Screamin' Green (118,255,122) #76FF7A
+Sea blue (0,105,148) #006994
+Sea green (46,139,87) #2E8B57
+Seal brown (50,20,20) #321414
+Seashell (255,245,238) #FFF5EE
+Selective yellow (255,186,0) #FFBA00
+Sepia (112,66,20) #704214
+Shadow (138,121,93) #8A795D
+Shadow blue (119,139,165) #778BA5
+Shampoo (255,207,241) #FFCFF1
+Shamrock green (0,158,96) #009E60
+Sheen Green (143,212,0) #8FD400
+Shimmering Blush (217,134,149) #D98695
+Shocking pink (252,15,192) #FC0FC0
+Shocking pink (Crayola) (255,111,255) #FF6FFF
+Sienna (136,45,23) #882D17
+Silver (192,192,192) #C0C0C0
+Silver chalice (172,172,172) #ACACAC
+Silver Lake blue (93,137,186) #5D89BA
+Silver pink (196,174,173) #C4AEAD
+Silver sand (191,193,194) #BFC1C2
+Sinopia (203,65,11) #CB410B
+Skobeloff (0,116,116) #007474
+Sky blue (135,206,235) #87CEEB
+Sky magenta (207,113,175) #CF71AF
+Slate blue (106,90,205) #6A5ACD
+Slate gray (112,128,144) #708090
+Smalt (Dark powder blue) (0,51,153) #003399
+Smitten (200,65,134) #C84186
+Smoke (115,130,118) #738276
+Smoky black (16,12,8) #100C08
+Smoky Topaz (147,61,65) #933D41
+Snow (255,250,250) #FFFAFA
+Soap (206,200,239) #CEC8EF
+Solid pink (137,56,67) #893843
+Sonic silver (117,117,117) #757575
+Spartan Crimson (158,19,22) #9E1316
+Space cadet (29,41,81) #1D2951
+Spanish bistre (128,117,50) #807532
+Spanish blue (0,112,184) #0070B8
+Spanish carmine (209,0,71) #D10047
+Spanish crimson (229,26,76) #E51A4C
+Spanish gray (152,152,152) #989898
+Spanish green (0,145,80) #009150
+Spanish orange (232,97,0) #E86100
+Spanish pink (247,191,190) #F7BFBE
+Spanish red (230,0,38) #E60026
+Spanish sky blue (0,255,255) #00FFFF
+Spanish violet (76,40,130) #4C2882
+Spanish viridian (0,127,92) #007F5C
+Spiro Disco Ball (15,192,252) #0FC0FC
+Spring bud (167,252,0) #A7FC00
+Spring green (0,255,127) #00FF7F
+Star command blue (0,123,184) #007BB8
+Steel blue (70,130,180) #4682B4
+Steel pink (204,51,204) #CC33CC
+Stil de grain yellow (250,218,94) #FADA5E
+Stizza (153,0,0) #990000
+Stormcloud (79,102,106) #4F666A
+Straw (228,217,111) #E4D96F
+Strawberry (252,90,141) #FC5A8D
+Sunglow (255,204,51) #FFCC33
+Sunray (227,171,87) #E3AB57
+Sunset (250,214,165) #FAD6A5
+Sunset orange (253,94,83) #FD5E53
+Super pink (207,107,169) #CF6BA9
+Tan (210,180,140) #D2B48C
+Tangelo (249,77,0) #F94D00
+Tangerine (242,133,0) #F28500
+Tangerine yellow (255,204,0) #FFCC00
+Tango pink (228,113,122) #E4717A
+Taupe (72,60,50) #483C32
+Taupe gray (139,133,137) #8B8589
+Tea green (208,240,192) #D0F0C0
 Tea rose (248,131,121) #F88379
-Teal (244,194,194) #F4C2C2
-Teal blue (0,128,128) #008080
-Teal deer (54,117,136) #367588
-Teal green (153,230,179) #99E6B3
-Telemagenta (0,130,127) #00827F
-Tenné (207,52,118) #CF3476
-Terra cotta (205,87,0) #CD5700
-Thistle (226,114,91) #E2725B
-Thulian pink (216,191,216) #D8BFD8
-Tickle Me Pink (222,111,161) #DE6FA1
-Tiffany Blue (252,137,172) #FC89AC
-Tiger's eye (10,186,181) #0ABAB5
-Timberwolf (224,141,60) #E08D3C
-Titanium yellow (219,215,210) #DBD7D2
-Tomato (238,230,0) #EEE600
-Toolbox (255,99,71) #FF6347
-Topaz (116,108,192) #746CC0
-Tractor red (255,200,124) #FFC87C
-Trolley Grey (253,14,53) #FD0E35
-Tropical rain forest (128,128,128) #808080
-True Blue (0,117,94) #00755E
-Tufts Blue (0,115,207) #0073CF
-Tulip (65,125,193) #417DC1
-Tumbleweed (255,135,141) #FF878D
-Turkish rose (222,170,136) #DEAA88
-Turquoise (181,114,129) #B57281
-Turquoise blue (64,224,208) #40E0D0
-Turquoise green (0,255,239) #00FFEF
-Tuscan (160,214,180) #A0D6B4
-Tuscan brown (250,214,165) #FAD6A5
-Tuscan red (111,78,55) #6F4E37
-Tuscan tan (124,72,72) #7C4848
-Tuscany (166,123,91) #A67B5B
-Twilight lavender (192,153,153) #C09999
-Tyrian purple (138,73,107) #8A496B
-UA blue (102,2,60) #66023C
-UA red (0,51,170) #0033AA
-Ube (217,0,76) #D9004C
-UCLA Blue (136,120,195) #8878C3
-UCLA Gold (83,104,149) #536895
-UFO Green (255,179,0) #FFB300
-Ultramarine (60,208,112) #3CD070
-Ultramarine blue (18,10,143) #120A8F
-Ultra pink (65,102,245) #4166F5
-Ultra red (255,111,255) #FF6FFF
-Umber (252,108,133) #FC6C85
-Unbleached silk (99,81,71) #635147
-United Nations blue (255,221,202) #FFDDCA
-University of California Gold (91,146,229) #5B92E5
-Unmellow yellow (183,135,39) #B78727
-UP Forest green (255,255,102) #FFFF66
-UP Maroon (1,68,33) #014421
-Upsdell red (123,17,19) #7B1113
-Urobilin (174,32,41) #AE2029
-USAFA blue (225,173,33) #E1AD21
-USC Cardinal (0,79,152) #004F98
-USC Gold (153,0,0) #990000
-University of Tennessee Orange (255,204,0) #FFCC00
-Utah Crimson (247,127,0) #F77F00
-Vanilla (211,0,63) #D3003F
-Vanilla ice (243,229,171) #F3E5AB
-Vegas gold (243,143,169) #F38FA9
-Venetian red (197,179,88) #C5B358
-Verdigris (200,8,21) #C80815
-Vermilion (67,179,174) #43B3AE
+Tea rose (244,194,194) #F4C2C2
+Teal (0,128,128) #008080
+Teal blue (54,117,136) #367588
+Teal deer (153,230,179) #99E6B3
+Teal green (0,130,127) #00827F
+Telemagenta (207,52,118) #CF3476
+Tenné (205,87,0) #CD5700
+Terra cotta (226,114,91) #E2725B
+Thistle (216,191,216) #D8BFD8
+Thulian pink (222,111,161) #DE6FA1
+Tickle Me Pink (252,137,172) #FC89AC
+Tiffany Blue (10,186,181) #0ABAB5
+Tiger's eye (224,141,60) #E08D3C
+Timberwolf (219,215,210) #DBD7D2
+Titanium yellow (238,230,0) #EEE600
+Tomato (255,99,71) #FF6347
+Toolbox (116,108,192) #746CC0
+Topaz (255,200,124) #FFC87C
+Tractor red (253,14,53) #FD0E35
+Trolley Grey (128,128,128) #808080
+Tropical rain forest (0,117,94) #00755E
+True Blue (0,115,207) #0073CF
+Tufts Blue (65,125,193) #417DC1
+Tulip (255,135,141) #FF878D
+Tumbleweed (222,170,136) #DEAA88
+Turkish rose (181,114,129) #B57281
+Turquoise (64,224,208) #40E0D0
+Turquoise blue (0,255,239) #00FFEF
+Turquoise green (160,214,180) #A0D6B4
+Tuscan (250,214,165) #FAD6A5
+Tuscan brown (111,78,55) #6F4E37
+Tuscan red (124,72,72) #7C4848
+Tuscan tan (166,123,91) #A67B5B
+Tuscany (192,153,153) #C09999
+Twilight lavender (138,73,107) #8A496B
+Tyrian purple (102,2,60) #66023C
+UA blue (0,51,170) #0033AA
+UA red (217,0,76) #D9004C
+Ube (136,120,195) #8878C3
+UCLA Blue (83,104,149) #536895
+UCLA Gold (255,179,0) #FFB300
+UFO Green (60,208,112) #3CD070
+Ultramarine (18,10,143) #120A8F
+Ultramarine blue (65,102,245) #4166F5
+Ultra pink (255,111,255) #FF6FFF
+Ultra red (252,108,133) #FC6C85
+Umber (99,81,71) #635147
+Unbleached silk (255,221,202) #FFDDCA
+United Nations blue (91,146,229) #5B92E5
+University of California Gold (183,135,39) #B78727
+Unmellow yellow (255,255,102) #FFFF66
+UP Forest green (1,68,33) #014421
+UP Maroon (123,17,19) #7B1113
+Upsdell red (174,32,41) #AE2029
+Urobilin (225,173,33) #E1AD21
+USAFA blue (0,79,152) #004F98
+USC Cardinal (153,0,0) #990000
+USC Gold (255,204,0) #FFCC00
+University of Tennessee Orange (247,127,0) #F77F00
+Utah Crimson (211,0,63) #D3003F
+Vanilla (243,229,171) #F3E5AB
+Vanilla ice (243,143,169) #F38FA9
+Vegas gold (197,179,88) #C5B358
+Venetian red (200,8,21) #C80815
+Verdigris (67,179,174) #43B3AE
 Vermilion (227,66,52) #E34234
-Veronica (217,56,30) #D9381E
-Violet (160,32,240) #A020F0
-Violet (color wheel) (143,0,255) #8F00FF
-Violet (RYB) (127,0,255) #7F00FF
-Violet (web) (134,1,175) #8601AF
-Violet-blue (238,130,238) #EE82EE
-Violet-red (50,74,178) #324AB2
-Viridian (247,83,148) #F75394
-Viridian green (64,130,109) #40826D
-Vista blue (0,150,152) #009698
-Vivid auburn (124,158,217) #7C9ED9
-Vivid burgundy (146,39,36) #922724
-Vivid cerise (159,29,53) #9F1D35
-Vivid orchid (218,29,129) #DA1D81
-Vivid sky blue (204,0,255) #CC00FF
-Vivid tangerine (0,204,255) #00CCFF
-Vivid violet (255,160,137) #FFA089
-Warm black (159,0,255) #9F00FF
-Waterspout (0,66,66) #004242
-Wenge (164,244,249) #A4F4F9
-Wheat (100,84,82) #645452
-White (245,222,179) #F5DEB3
-White smoke (255,255,255) #FFFFFF
-Wild blue yonder (245,245,245) #F5F5F5
-Wild orchid (162,173,208) #A2ADD0
-Wild Strawberry (212,112,162) #D470A2
-Wild watermelon (255,67,164) #FF43A4
-Willpower orange (252,108,133) #FC6C85
-Windsor tan (253,88,0) #FD5800
-Wine (167,85,2) #A75502
-Wine dregs (114,47,55) #722F37
-Wisteria (103,49,71) #673147
-Wood brown (201,160,220) #C9A0DC
-Xanadu (193,154,107) #C19A6B
-Yale Blue (115,134,120) #738678
-Yankees blue (15,77,146) #0F4D92
-Yellow (28,40,65) #1C2841
-Yellow (Crayola) (255,255,0) #FFFF00
-Yellow (Munsell) (252,232,131) #FCE883
-Yellow (NCS) (239,204,0) #EFCC00
-Yellow (Pantone) (255,211,0) #FFD300
-Yellow (process) (254,223,0) #FEDF00
-Yellow (RYB) (255,239,0) #FFEF00
-Yellow-green (254,254,51) #FEFE33
-Yellow Orange (154,205,50) #9ACD32
-Yellow rose (255,174,66) #FFAE42
-Zaffre (255,240,0) #FFF000
-Zinnwaldite brown (0,20,168) #0014A8
-Zomp (44,22,8) #2C1608
-List of Colors in Color Order (57,167,142) #39A78E
+Vermilion (217,56,30) #D9381E
+Veronica (160,32,240) #A020F0
+Violet (143,0,255) #8F00FF
+Violet (color wheel) (127,0,255) #7F00FF
+Violet (RYB) (134,1,175) #8601AF
+Violet (web) (238,130,238) #EE82EE
+Violet-blue (50,74,178) #324AB2
+Violet-red (247,83,148) #F75394
+Viridian (64,130,109) #40826D
+Viridian green (0,150,152) #009698
+Vista blue (124,158,217) #7C9ED9
+Vivid auburn (146,39,36) #922724
+Vivid burgundy (159,29,53) #9F1D35
+Vivid cerise (218,29,129) #DA1D81
+Vivid orchid (204,0,255) #CC00FF
+Vivid sky blue (0,204,255) #00CCFF
+Vivid tangerine (255,160,137) #FFA089
+Vivid violet (159,0,255) #9F00FF
+Warm black (0,66,66) #004242
+Waterspout (164,244,249) #A4F4F9
+Wenge (100,84,82) #645452
+Wheat (245,222,179) #F5DEB3
+White (255,255,255) #FFFFFF
+White smoke (245,245,245) #F5F5F5
+Wild blue yonder (162,173,208) #A2ADD0
+Wild orchid (212,112,162) #D470A2
+Wild Strawberry (255,67,164) #FF43A4
+Wild watermelon (252,108,133) #FC6C85
+Willpower orange (253,88,0) #FD5800
+Windsor tan (167,85,2) #A75502
+Wine (114,47,55) #722F37
+Wine dregs (103,49,71) #673147
+Wisteria (201,160,220) #C9A0DC
+Wood brown (193,154,107) #C19A6B
+Xanadu (115,134,120) #738678
+Yale Blue (15,77,146) #0F4D92
+Yankees blue (28,40,65) #1C2841
+Yellow (255,255,0) #FFFF00
+Yellow (Crayola) (252,232,131) #FCE883
+Yellow (Munsell) (239,204,0) #EFCC00
+Yellow (NCS) (255,211,0) #FFD300
+Yellow (Pantone) (254,223,0) #FEDF00
+Yellow (process) (255,239,0) #FFEF00
+Yellow (RYB) (254,254,51) #FEFE33
+Yellow-green (154,205,50) #9ACD32
+Yellow Orange (255,174,66) #FFAE42
+Yellow rose (255,240,0) #FFF000
+Zaffre (0,20,168) #0014A8
+Zinnwaldite brown (44,22,8) #2C1608
+Zomp (57,167,142) #39A78E

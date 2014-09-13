@@ -52,7 +52,7 @@ def parser(url):
 					if(len(ccode) != 0):
 						color_name.append(ccode)
 
-	print len(color_name)
+	#print len(color_name)
 	#print len(rgb_tuple)
 	#print len(hex_code)
 
