@@ -25,19 +25,29 @@ def parser(url):
 			hex_code.append(hasstr)
 					
 		else:
-			pos = str(link).find("title")
-			#print str(link)
-			colstr = str(link)[pos-1:]
-			cpos = colstr.find(">")
-			tmpstr = colstr[cpos+1:]
-			epos = tmpstr.find("<")
-			ccode = tmpstr[:epos]
-			if ccode != "A\xe2\x80\x93F":
-				if(len(ccode) != 0):
-					color_name.append(ccode)
+			if str(link).find("North Texas Green") > 0:
+				pos = str(link).find("rel")
+				colstr = str(link)[pos-1:]
+				cpos = colstr.find(">")
+				tmpstr = colstr[cpos+1:]
+				epos = tmpstr.find("<")
+				ccode = tmpstr[:epos]
+				#print ccode
+				color_name.append(ccode)
+			else:
+				pos = str(link).find("title")
+				#print str(link)
+				colstr = str(link)[pos-1:]
+				cpos = colstr.find(">")
+				tmpstr = colstr[cpos+1:]
+				epos = tmpstr.find("<")
+				ccode = tmpstr[:epos]
+				if ccode != "A\xe2\x80\x93F":
+					if(len(ccode) != 0):
+						color_name.append(ccode)
 
 	#print len(color_name)
-	#print rgb_tuple
+	#print len(rgb_tuple)
 	#print len(hex_code)
 
 	for idx, val in enumerate(color_name):
