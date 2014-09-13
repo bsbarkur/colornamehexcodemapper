@@ -34,6 +34,12 @@ def parser(url):
 				ccode = tmpstr[:epos]
 				#print ccode
 				color_name.append(ccode)
+			elif str(link).find("Pink-orange") > 0:
+				pos = str(link).find(">")
+				colstr = str(link)[pos+1:]
+				epos = colstr.find("<")
+				ccode = colstr[:epos]
+				color_name.append(ccode)
 			else:
 				pos = str(link).find("title")
 				#print str(link)
@@ -46,12 +52,13 @@ def parser(url):
 					if(len(ccode) != 0):
 						color_name.append(ccode)
 
-	#print len(color_name)
+	print len(color_name)
 	#print len(rgb_tuple)
 	#print len(hex_code)
 
 	for idx, val in enumerate(color_name):
-		print color_name[idx], rgb_tuple[idx], hex_code[idx]
+		if idx != 1096:
+			print color_name[idx], rgb_tuple[idx], hex_code[idx]
 
 if __name__ == "__main__":
 	parser("http://en.wikipedia.org/wiki/List_of_colors_%28compact%29")
